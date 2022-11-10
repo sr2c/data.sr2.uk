@@ -1,11 +1,11 @@
 ---
 schema: default
-title: Tor Relay Users
+title: Tor Bridge Users
 organization: The Tor Project, Inc.
-notes: The estimated number of directly-connecting clients to the Tor network per day.
+notes: The estimated number of clients connecting to the Tor network via a bridge per day.
 resources:
-  - name: Relay Users CSV
-    url: 'https://metrics.torproject.org/userstats-relay-country.csv?start=2011-09-01&country=all&events=on'
+  - name: Bridge Users CSV
+    url: 'https://metrics.torproject.org/userstats-bridge-country.csv?start=2011-09-01&country=all&events=on'
     format: csv
 license: 'https://creativecommons.org/publicdomain/zero/1.0/'
 category:
