@@ -1,9 +1,9 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+title: SR2 Communications
+greeting: Welcome to data.sr2.uk
+description: A collection of open data relevant to our work.
+baseurl: /
 logo: /img/jkan.png
-repo: https://github.com/timwis/jkan/
+repo: https://github.com/sr2c/data.sr2.uk/
 
 # Site theme
 jkan_theme: Default
